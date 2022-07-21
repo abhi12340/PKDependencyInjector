@@ -1,7 +1,7 @@
-## PKDependencyInjector
+## PKDependencyInjector 🎉🎉
 ## New And easy way to manage DI for Class. (Not For controllers)
-## best use case Repository Pattern.
-## if Liked by Community will release for View controllers also.
+## Best use case Repository Pattern.
+# if Liked by Community will release for View controllers also.
  
  1. This Package is very easy to use Dependency injection library for Class. 
  2. So that if there are are dependencies one class is in other class. Then Easily we can add dependency.
