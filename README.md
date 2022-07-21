@@ -1,4 +1,4 @@
-## PKDependencyInjector 🎉🎉
+## PKDependencyInjector using <i>SPM</i> 🎉🎉
 ## New And easy way to manage DI for Class. (Not For controllers)
 ## Best use case Repository Pattern.
 # if Liked by Community will release for View controllers also.
