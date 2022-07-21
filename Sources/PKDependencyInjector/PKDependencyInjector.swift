@@ -1,6 +1,9 @@
-public struct PKDependencyInjector {
-    public private(set) var text = "Hello, World!"
 
-    public init() {
+
+public final class PKDependencyInjector {
+    public static let sharedInstance = PKDependencyInjector()
+    var container: Container
+    private init() {
+        container = Container()
     }
 }
